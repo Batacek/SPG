@@ -1,5 +1,5 @@
 # SPG
-This Python script is designed to generate strong passwords. If you're looking for something a bit weaker, go for level 2 or 3. If you want something really secure, aim for level 4 or higher. I'd also recommend testing the password on <a href="https://www.passwordmonster.com/">this site</a>.
+This Python script is designed to generate strong passwords. If you're looking for something a bit weaker, go for level 2 or 3. If you want something really secure, aim for level 4 or higher. I'd also recommend testing the password on <a href="https://www.passwordmonster.com/">this site</a>. If you're looking to generate a token (or just a really strong password), we'd suggest using at least level 10.
 <br>
 # Code
 ```py
