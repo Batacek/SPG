@@ -19,7 +19,7 @@ while True:
     # |Strings|
     strength = input("Choose the strength:")
     num = int(strength) + 1
-    string.gen = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890=´ú)¨ů§,.-|_:?"!%*><$ß¤×÷%ˇ;°'
+    string.gen = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890=ú)ů§,.-|_:?!%*><$ß¤×÷%;°'
 
     # |Generation|
     for a in range(1, num):
